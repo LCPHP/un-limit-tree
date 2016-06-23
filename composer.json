@@ -2,7 +2,7 @@
   "name": "niklaslu/un-limit-tree",
   "description": "php无限级分类",
   "keyword" : ["php" , "tree"],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
