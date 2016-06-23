@@ -1,0 +1,19 @@
+{
+  "name": "niklaslu/un-limit-tree",
+  "description": "php无限级分类",
+  "keyword" : ["php" , "tree"],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "niklas lu",
+      "email": "332553882@qq.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload" : {
+    "psr-4" : {
+      "niklaslu\\" : "src"
+    }
+  }
+}
